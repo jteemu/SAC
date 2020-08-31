@@ -26,7 +26,7 @@
 		{
 			"kind": "builder",
 			"tag": "com-demo-box-bps",
-			"url": "https://raw.githubusercontent.com/jteemu/SAC/master/box_sps.js",
+			"url": "https://github.com/jteemu/SAC/blob/master/box_sps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
