@@ -19,7 +19,7 @@
 		{
 			"kind": "styling",
 			"tag": "com-demo-gauge-sps",
-			"url": "https://raw.githubusercontent.com/jteemu/SAC/master/box_bps.js",
+			"url": "https://github.com/jteemu/SAC/blob/master/box_bps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
